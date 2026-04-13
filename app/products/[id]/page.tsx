@@ -60,8 +60,7 @@ export default async function ProductDetailPage({ params }: PageProps) {
           </div>
 
           <div className="space-y-3">
-            <BuyButton productId={product.id} />
-            <p className="text-center text-sm text-gray-500">Secure Checkout Powered by Stripe</p>
+            <BuyButton />
           </div>
 
           <div className="pt-8 border-t border-gray-800">
