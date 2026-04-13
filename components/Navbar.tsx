@@ -14,7 +14,7 @@ export default function Navbar() {
   const pathname = usePathname()
   return (
     <header className="text-center py-4 border-b border-green-700 bg-black">
-      <h2 className="text-2xl font-bold text-green-400">GPUniverse</h2>
+      <h2 className="text-2xl font-bold text-green-400">Duncan</h2>
       <p className="text-green-600 text-sm">A place for gamers, by gamers</p>
       <nav className="flex bg-[#333] border-b-2 border-green-700 mt-2">
         {links.map(({ href, label }) => (

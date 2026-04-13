@@ -1,6 +1,6 @@
-# GraphixMart
+# Duncan
 
-GraphixMart is a GPU e-commerce store built with Next.js. It lets users browse and buy graphics cards, read hardware news, look up GPU drivers, compare specs, and submit support tickets. The whole thing runs on a PostgreSQL database with Prisma as the ORM, NextAuth for authentication, and Stripe handling payments.
+Duncan is a GPU e-commerce store built with Next.js. It lets users browse and buy graphics cards, read hardware news, look up GPU drivers, compare specs, and submit support tickets. The whole thing runs on a PostgreSQL database with Prisma as the ORM, NextAuth for authentication, and Stripe handling payments.
 
 The design is dark-themed with a green and cyan color scheme, built entirely with Tailwind CSS.
 
@@ -46,8 +46,8 @@ Before you start, make sure you have:
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/SpoodermanCodes/graphixmart.git
-cd graphixmart
+git clone https://github.com/SpoodermanCodes/duncan.git
+cd duncan
 ```
 
 ### 2. Install dependencies

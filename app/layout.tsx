@@ -4,7 +4,7 @@ import Navbar from '@/components/Navbar'
 import Footer from '@/components/Footer'
 
 export const metadata: Metadata = {
-  title: 'GPUniverse',
+  title: 'Duncan',
   description: 'A place for gamers, by gamers',
 }
 

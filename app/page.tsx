@@ -13,7 +13,7 @@ export default async function HomePage() {
   const displayNews = news.length > 0 ? news : [
     {
       id: '1',
-      title: 'Welcome to GraphixMart',
+      title: 'Welcome to Duncan',
       content: 'The ultimate destination for gamers.',
       imageUrl: 'https://cdn.mos.cms.futurecdn.net/ozqDihdWshdHA5AE2Mfu3g-970-80.jpg.webp',
       createdAt: new Date(),
@@ -24,7 +24,7 @@ export default async function HomePage() {
     <div className="container mx-auto px-4 py-10 space-y-16 animate-slide-in">
       <section className="text-center space-y-4">
         <h1 className="text-5xl font-extrabold text-green-400 tracking-tighter">
-          GRAPHIX<span className="text-cyan-400">MART</span>
+          DUN<span className="text-cyan-400">CAN</span>
         </h1>
         <p className="text-xl text-gray-400 max-w-2xl mx-auto">
           Experience the next generation of performance. We provide the latest GPUs to power your passion.

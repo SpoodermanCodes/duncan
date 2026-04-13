@@ -4,8 +4,8 @@ export default function Footer() {
       <div className="flex flex-wrap justify-around gap-6">
         <div>
           <h4 className="text-green-500 font-semibold mb-2">Get in touch</h4>
-          <p className="text-gray-400 text-sm">business@gpuniverse.in</p>
-          <p className="text-gray-400 text-sm">support@gpuniverse.in</p>
+          <p className="text-gray-400 text-sm">business@duncan.com</p>
+          <p className="text-gray-400 text-sm">support@duncan.com</p>
         </div>
         <div>
           <h4 className="text-green-500 font-semibold mb-2">Follow Us At</h4>
